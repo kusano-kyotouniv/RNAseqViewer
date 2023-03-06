@@ -1,0 +1,11 @@
+/Users/hiro/RNAseqViewer2forMac/tamakiarray_spot_RNAseqViewer.txt
+/Users/hiro/Desktop/Taxol/220320salmon/Trinity_merge2_nr95.fasta
+/Users/hiro/Desktop/Taxol/220320salmon/Trinity_merge2_nr95
+4	0	
+4	1	
+4	2	
+4	3	
+0	2	
+0	3	
+1	2	
+1	3	
